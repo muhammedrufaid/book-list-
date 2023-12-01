@@ -1,0 +1,10 @@
+.book-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .book-price {
+    text-align: right;
+    align-self: center;
+  }
